@@ -1,6 +1,5 @@
-        DATE DE CREATION : 30 novembre 2021
-        
-• Développement d'un site Web pour une entreprise de conciergerie pour entreprise, une interface pour les dirigeantes leur permettant de gerer leurs commandes, clients...ect
-Pour les clients leur permettant de passer une commande via un catalogue.
+• Développement d'une application Web sous 10 jours en groupe afin d'aider une société à exercer son activité de conciergerie d'entreprise.
 
-• Techno: HTML/CSS, Laravel, VueJS, base de donnée Laragon
+• Il existe une interface admin, une interface pour les dirigeants des entreprises, et une interface pour les membres des entreprises qui pourront reserver et réaliser des commandes via un catalogue.
+
+• Technologies: HTML/CSS, Laravel, VueJS, base de données SQL/Laragon
